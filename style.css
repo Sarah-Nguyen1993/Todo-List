@@ -1,0 +1,26 @@
+.container{
+    margin:0 auto;
+    max-width:500px;
+    widows: 100%;
+}
+input{
+    height:50px;
+    width:100%;
+    font-size:20px;
+    padding:5px;
+    margin:10px;
+    font-family: 'Courier New', Courier, monospace;
+};
+.label{
+    font-size: 15px;
+    color: pink;
+    font-weight: bold;
+    padding:10px;
+    margin:10px;
+}
+
+.the-list{
+    display:flex;
+    background-color: pink;
+    margin: 5px auto;
+}
